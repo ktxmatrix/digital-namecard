@@ -7,7 +7,7 @@ ORG:KTX Matrix Consulting;
 TITLE:Digital Transformation Orchestrator
 EMAIL;type=INTERNET;type=WORK;type=pref:sumit@ktxmatrix.com
 TEL;type=WORK;type=VOICE:+1 647 261 0282
-item1.ADR;type=WORK;type=pref:;;4 Tiverton Avenue\nToronto\, Ontario;;;M4M2L9;Canada
+item1.ADR;type=WORK;type=pref:;;4 Tiverton Ave\nToronto\, Ontario;;;M4M2L9;Canada
 item1.X-ABADR:sg
 item2.URL;type=pref:sumitmadan.com
 item2.X-ABLabel:_$!<HomePage>!$_
