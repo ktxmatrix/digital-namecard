@@ -57,7 +57,7 @@ img.profile-pic {
 }
 
 .col {
-	display: block;
+	display: inline-block;
 	flex-basis: 0;
 	flex-grow: 1;
 	flex-shrink: 1;
@@ -90,6 +90,7 @@ img.profile-pic {
 
 .col.is-5 {
 	flex: none;
+	height: 70%;
 	width: 50%;
 }
 
