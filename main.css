@@ -36,7 +36,7 @@ img.profile-pic {
 	height: 50%;
 	width: 80%;
 	object-fit: fill;
-	border-radius: 100%;
+	border-radius: 0%;
 }
 
 img.company-logo-pic {
