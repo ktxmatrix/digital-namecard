@@ -90,6 +90,7 @@ img.profile-pic {
 
 .col.is-5 {
 	flex: none;
+	flex-grow: 2;
 	height: 70%;
 	width: 50%;
 }
